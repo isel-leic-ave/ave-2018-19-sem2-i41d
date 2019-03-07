@@ -45,6 +45,11 @@ class App {
     static void Main(){
         Point p = new Point(7, 9);
         Student s = new Student(154134, "Ze Manel", 5243, "ze");
-        
+        Account a = new Account();
+        a.Balance = 62143;
+        Logger.Log(p);
+        Logger.Log(new Point(8,3));
+        Logger.Log(s);
+        Logger.Log(a);
     }
 }
