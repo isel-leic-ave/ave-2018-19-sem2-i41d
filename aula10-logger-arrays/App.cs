@@ -64,12 +64,18 @@ class Account : IAccount {public long Balance{ get; set; }}
 class App {
     static void Main(){
         Point p = new Point(7, 9);
-        Student s = new Student(154134, "Ze Manel", 5243, "ze");
+        Student s1 = new Student(154134, "Ze Manel", 5243, "ze");
+        Student s2 = new Student(765124, "Maria Papoila", 6353, "mia");
+        Student s3 = new Student(856775, "Caneco Baca", 345, "caba");
+        Student[] sts = {s1, s2, s3};
         Account a = new Account();
         a.Balance = 62143;
         Logger.Log(p);
         Logger.Log(new Point(8,3));
-        Logger.Log(s);
+        Logger.Log(s1);
+        Logger.Log(s2);
+        Logger.Log(s3);
         Logger.Log(a);
+        Logger.Log(sts);
     }
 }
