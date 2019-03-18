@@ -66,28 +66,32 @@ public class Logger
     {
         //Print on screen the type of the object
         Type klass = obj.GetType();
+        bool isArray = typeof(Array).IsAssignableFrom(klass);
         Console.Write("{0}: ", klass.Name);
 
-        if(typeof(Array).IsAssignableFrom(klass)) {
-            klass = klass.GetElementType();  // O tipo de elemento do Array
+        if(klass.IsPrimitive){
+            Console.Write(obj);
         }
-
-        List<Getter> gs;
-        if(getters.TryGetValue(klass, out gs) == false){
-            gs = SetupGetters(klass);
-            getters.Add(klass, gs);
-        }
-        if(!typeof(Array).IsAssignableFrom(obj.GetType())) {
+        else if(!isArray) {
+            List<Getter> gs;
+            if(getters.TryGetValue(klass, out gs) == false){
+                gs = SetupGetters(klass);
+                getters.Add(klass, gs);
+            }
             foreach (Getter g in gs)
             {
-                Console.Write(g.Name + "=" + g.GetValue(obj) + ", ");
+                Console.Write(g.Name + " : " + g.GetValue(obj) + ", ");
             }
         } else {
-            Array arr = (Array) obj;
-            // APi de reflexão sobre arr --- Array.GetValue(int index)
-            // 2 ciclos:
-            // -- ciclo sobre arr;
-            //     --- ciclo sobre getters.
+            // APi de reflexão sobre arr ---> Array.GetValue(int index)
+            Array arr = (Array)obj;
+            Console.WriteLine();
+            // Ciclo sobre arr;
+            for(int i=0;i<arr.Length;++i){
+                object o = arr.GetValue(i);
+                Console.Write("  ");
+                Log(o);
+            }
         }
         Console.WriteLine();
     }

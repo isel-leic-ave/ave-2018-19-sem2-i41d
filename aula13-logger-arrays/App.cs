@@ -77,5 +77,7 @@ class App {
         Logger.Log(s3);
         Logger.Log(a);
         Logger.Log(sts);
+        int[] nrs = {33,4,245,4,5,3425,4};
+        Logger.Log(nrs);
     }
 }
