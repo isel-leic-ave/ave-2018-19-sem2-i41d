@@ -1,0 +1,34 @@
+36187|Luís Sequeira de Almeida|3|36187@alunos.isel.ipl.pt|lsequeiraa
+39146|Filipe Bruno Lourenço e Quelhas|3|39146@alunos.isel.ipl.pt|a39146
+39260|David Alexandre Teixeira de Carvalho|3|39260@alunos.isel.ipl.pt|Baltas93
+40605|Tejal Yogesh Amratlal|5|40605@alunos.isel.ipl.pt|tej4l
+40648|Ricardo Jorge Conceição Duarte|5|40648@alunos.isel.ipl.pt|RicardoJCD
+41425|Ruben Filipe da Costa|5|41425@alunos.isel.ipl.pt|RubenCosta10
+41429|Rodrigo Lopes da Silva|9|41429@alunos.isel.ipl.pt|PiniponSelvagem
+41465|Gonçalo Jorge Bettencourt Caldeira|10|41465@alunos.isel.ipl.pt|Caldeiradas
+41566|Nuno Manuel Pereira Faião|9|41566@alunos.isel.ipl.pt|PTTANK
+42155|Sergiu Cozma|11|42155@alunos.isel.ipl.pt|SergiuCzm
+42160|Inês Carvalhal Alves de Moura Gomes|11|42160@alunos.isel.ipl.pt|InesMG
+42172|Ivo Luís Martinho Pereira|12|42172@alunos.isel.ipl.pt|ivoper
+42174|Beatriz Plácido Ferreira|11|42174@alunos.isel.ipl.pt|beapferreira
+42176|Ruben Paulino Café|2|42176@alunos.isel.ipl.pt|rubencafe
+43503|Bernardo Pedrosa Costa|1|43503@alunos.isel.ipl.pt|BraiinDust
+43521|Tiago Miguel Moreira Seca|4|43521@alunos.isel.ipl.pt|TiagoSeca
+43526|José Francisco Domingos Cunha|9|43526@alunos.isel.ipl.pt|josefdcunha
+43529|Ricardo Miguel Brunheta Santos|2|43529@alunos.isel.ipl.pt|RicardoSantos97
+43535|Tiago Alexandre Pinto Pereira|4|43535@alunos.isel.ipl.pt|tiagoappereira
+43537|Ricardo Manuel Morgado Moura|4|43537@alunos.isel.ipl.pt|A43537
+43538|Bruno Miguel Alpoim Serras|8|43538@alunos.isel.ipl.pt|bmserras
+43539|João Paulo da Silva Francisco|1|43539@alunos.isel.ipl.pt|joao-francisco
+43542|Bruno Alexandre Coimbra Morais|1|43542@alunos.isel.ipl.pt|SlammK
+43544|Filipe Leonardo Montoito Costa|2|43544@alunos.isel.ipl.pt|FilipeCosta1998
+43565|Afonso Maria Testa Santos|6|43565@alunos.isel.ipl.pt|A43565
+43568|Rafael Alexandre de Mestre Pinto|7|43568@alunos.isel.ipl.pt|Rafampinto
+43576|Martim Duarte Honório da Silva Bravo|7|43576@alunos.isel.ipl.pt|mdbravo
+43579|Daniel Ramos dos Santos|10|43579@alunos.isel.ipl.pt|danisss9
+43582|Simão Pedro Gonçalves Mata|6|43582@alunos.isel.ipl.pt|SimaoMata
+43585|David Tomás Rodrigues Botelho|10|43585@alunos.isel.ipl.pt|Davidbbb123
+43605|Francisco Capítulo Fernandes|7|43605@alunos.isel.ipl.pt|francisconmd
+43612|Filipe Alexandre Duarte de Jesus|8|43612@alunos.isel.ipl.pt|noftasmos1998
+43613|Marcos Emanuel Oliveira Miranda|8|43613@alunos.isel.ipl.pt|marcos992
+44026|André Miguel Mesquita da Costa|6|44026@alunos.isel.ipl.pt|Costandre9293
