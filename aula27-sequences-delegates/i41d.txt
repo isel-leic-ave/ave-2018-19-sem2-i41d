@@ -1,0 +1,42 @@
+44777|Afonso Gabriel Nobre|12|44777@alunos.isel.ipl.pt|44777
+44802|Alexandre Maurício Sá|4|44802@alunos.isel.ipl.pt|44802
+44800|Alexandre Romão Venâncio|11|44800@alunos.isel.ipl.pt|44800
+45670|António Xu Wu|11|45670@alunos.isel.ipl.pt|45670
+44785|Carlos Ari Valente Catrampona|11|44785@alunos.isel.ipl.pt|44785
+44775|Carolina Maria Ribeiro dos Santos|12|44775@alunos.isel.ipl.pt|44775
+43602|Cecília Sofia Ferreira Duarte|1|43602@alunos.isel.ipl.pt|43602
+43387|David Alexandre Miguel Sobral|9|43387@alunos.isel.ipl.pt|43387
+45365|David Gonçalo Oliveira Fidalgo|8|45365@alunos.isel.ipl.pt|45365
+44774|Diogo Daniel Silva Leite dos Santos|3|44774@alunos.isel.ipl.pt|44774
+43534|Diogo Meister Salta Nogueira|7|43534@alunos.isel.ipl.pt|43534
+43524|Fábio Filipe Barreto Vilela|7|43524@alunos.isel.ipl.pt|43524
+44813|Francisco Santos Fialho|12|44813@alunos.isel.ipl.pt|44813
+38224|Gabriel Filipe Tomé|4|38224@alunos.isel.ipl.pt|38224
+43520|Gonçalo Filipe Gonçalves Pestana|1|43520@alunos.isel.ipl.pt|43520
+41465|GONÇALO JORGE BETTENCOURT CALDEIRA|6|41465@alunos.isel.ipl.pt|41465
+44816|Jéssica Fabiana Leite Olivença|3|44816@alunos.isel.ipl.pt|44816
+43385|João Carlos dos Reis Raposo Vieira|9|43385@alunos.isel.ipl.pt|43385
+44797|João Miguel Chamiça Pereira|3|44797@alunos.isel.ipl.pt|44797
+43315|Joel Alexandre Ribeiro Rodrigues|9|43315@alunos.isel.ipl.pt|43315
+44788|Jorge Pedreira Cardoso Brown|2|44788@alunos.isel.ipl.pt|44788
+43553|Luís Filipe Pereira de Barros|1|43553@alunos.isel.ipl.pt|43553
+43755|LUÍS MARIA DE FIGUEIREDO CRUZ GUERRA|14|44015@alunos.isel.ipl.pt|43755
+44781|Margarida Rato Nunes|5|44781@alunos.isel.ipl.pt|44781
+43522|Marta de Faria Rijo Ferreira|13|43522@alunos.isel.ipl.pt|43522
+44801|Miguel António Costa da Cruz|10|44801@alunos.isel.ipl.pt|44801
+43504|Miguel Filipe Paiva Luís|13|43504@alunos.isel.ipl.pt|43504
+44861|Miguel Morato Roxo Ribeiro Pinto|10|44861@alunos.isel.ipl.pt|44861
+43586|Miguel Ventura Paixão|7|43586@alunos.isel.ipl.pt|43586
+44021|Nuno Miguel Simões Gomes|6|44021@alunos.isel.ipl.pt|44021
+45366|Pedro Costa Santos|8|45366@alunos.isel.ipl.pt|45366
+44015|Pedro Filipe da Silva Tereso|14|44015@alunos.isel.ipl.pt|44015
+44825|Pedro Miguel Fialho Rodrigues|10|44825@alunos.isel.ipl.pt|44825
+44837|Ricardo Cardoso da Silva|8|44837@alunos.isel.ipl.pt|44837
+44820|Rodrigo de Magalhães Marques dos Santos Silva|5|44820@alunos.isel.ipl.pt|44820
+43499|Rodrigo Miguel Marques de Matos Frazão|13|43499@alunos.isel.ipl.pt|43499
+44815|Rui Pedro Sousa Paças|5|44815@alunos.isel.ipl.pt|44815
+43587|Simão Pedro Silva Rodrigues|6|43587@alunos.isel.ipl.pt|43587
+44783|Tiago Miguel Paiva de Brito Morais Duarte|4|44783@alunos.isel.ipl.pt|44783
+44865|Valdemar Palminha Correia Antunes|2|44865@alunos.isel.ipl.pt|44865
+44600|Vladyslav Vorobyov|2|44600@alunos.isel.ipl.pt|44600
+43593|Wilson Rúben de Figueiredo Cação Martins da Costa|14|43593@alunos.isel.ipl.pt|43593
